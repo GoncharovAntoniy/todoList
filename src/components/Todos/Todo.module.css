@@ -1,0 +1,16 @@
+.todo {
+    color: white;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.h2 {
+    color: white;
+}
+
+.todoCount {
+    color: white;
+}
